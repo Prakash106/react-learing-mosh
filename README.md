@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[https://react-mosh.netlify.com/login](Demo) 
+[Demo - react-mosh.netlify.com](https://react-mosh.netlify.com/login) 
 
 ## Available Scripts
 
